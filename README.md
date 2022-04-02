@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gonzahar
 - 👀 I’m interested in ...
-    Web and Mobile apps, Servers, Game development, Machine Learning, VR and AR, Music and sound (basic) engeneering, electronics and spoken languages. That's almost all. I'm also a very good musician!
+    Web and Mobile apps, Servers, Game development, Machine Learning, VR and AR, Music and sound engeneering, electronics and spoken languages. That's almost all. I'm also a very good musician!
 - 🌱 I’m currently learning ...
     Machine Learning applied to videogames
     Lojban language
