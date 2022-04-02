@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
     VR related software
 - 📫 How to reach me ...
-    http://gonsoft.com.ar
 
 <!---
 gonzahar/gonzahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
