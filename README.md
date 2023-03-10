@@ -3,9 +3,9 @@
     Web and Mobile apps, Frontend and Backend, Game development, Machine Learning, VR/AR, electronics. 
     That's almost all, I'm also a very good musician!
 - 🌱 I’m currently learning ...
-    Life
+    Godot 4.0 (just released in March 2023!)
 - 💞️ I’m looking to collaborate on ...
-    The universe
+    The most original ideas for apps and games
 - 📫 How to reach me ...
     gonzalodelgaudio@gmail.com
     
